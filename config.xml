@@ -18,5 +18,7 @@
     </author>
 	
 	<gap:plugin name="org.apache.cordova.device-motion" />
+    <plugin name="cordova-plugin-device-motion" spec="~1.2.2" />
+        
 
 </widget>
